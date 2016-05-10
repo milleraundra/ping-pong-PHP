@@ -1,6 +1,6 @@
 # ping-pong-PHP
 
-####By Aundra Miller and mostfamiliar
+####By Aundra Miller and Nic Netzel
 
 ## Description
 This is a simple PHP project to become familiar with writing PHP code with Silex routing, Twig templates, and BDD testing with PHPUnit. Users can input a number, and the application will count up to that number, replacing multiples of 3 with 'ping', multiples of 5 with 'pong', and multiples of 3 and 5 with 'ping-pong'.
